@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...Computer science and Engineering at University
 - 💞️ I’m looking to collaborate on ...many projects
-- 📫 How to reach me via Gmail-->sam.thedevdynamo@gmail.com
+- 📫 How to reach me via Gmail-->girmasamuel200@gmail.com
 Telegram-->http://t.me/Code_Architect01
 
            
